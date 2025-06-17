@@ -31,8 +31,13 @@ public class PdfDocumentactivate implements PdfDocument {
     }
 
     @Override
+    public void setReadOnly(boolean readOnly) {
+        this.readOnly = readOnly;
+        System.out.println("PDF read-only set to: " + readOnly);
+    }
+
+    @Override
     public boolean isReadOnly() {
         return readOnly;
     }
-    
 }

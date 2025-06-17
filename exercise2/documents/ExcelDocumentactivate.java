@@ -1,29 +1,27 @@
 package documents;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
-public class ExcelDocumentImpl implements ExcelDocument {
+public class ExcelDocumentactivate implements ExcelDocument {
     private Map<String, String[][]> sheets = new HashMap<>();
     private boolean isOpen = false;
     
-    public ExcelDocumentImpl() {
+    public ExcelDocumentactivate() {
         sheets.put("Sheet1", new String[10][10]);
     }
 
-    @Override
     public void open() {
         isOpen = true;
         System.out.println("Excel document opened");
     }
 
-    @Override
     public void save() {
         if (isOpen) {
             System.out.println("Excel document saved");
         }
     }
 
-    @Override
     public void close() {
         if (isOpen) {
             isOpen = false;
@@ -31,18 +29,15 @@ public class ExcelDocumentImpl implements ExcelDocument {
         }
     }
 
-    @Override
     public String getDocumentType() {
         return "Excel Document";
     }
 
-    @Override
     public void addSheet(String sheetName) {
         sheets.put(sheetName, new String[10][10]);
         System.out.println("Sheet added: " + sheetName);
     }
 
-    @Override
     public void updateCell(int row, int col, String value) {
         String[][] sheet = sheets.get("Sheet1");
         if (row < sheet.length && col < sheet[row].length) {
@@ -51,7 +46,6 @@ public class ExcelDocumentImpl implements ExcelDocument {
         }
     }
 
-    @Override
     public String getCellValue(int row, int col) {
         String[][] sheet = sheets.get("Sheet1");
         if (row < sheet.length && col < sheet[row].length) {
