@@ -4,12 +4,12 @@ import documents.Document;
 
 public abstract class DocumentFactory {
     public abstract Document createDocument();
-    
+
     public void processDocument() {
         Document doc = createDocument();
+        System.out.println("Creating a " + doc.getDocumentType());
         doc.open();
         doc.save();
         doc.close();
     }
-    
 }

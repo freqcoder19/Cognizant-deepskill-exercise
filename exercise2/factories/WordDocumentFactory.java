@@ -1,13 +1,12 @@
 package factories;
 
-
 import documents.Document;
-import documents.WordDocumentactivate;
+import documents.WordDocument; // ✅ Correct class
 
 public class WordDocumentFactory extends DocumentFactory {
     @Override
     public Document createDocument() {
-        return new WordDocumentactivate();
+        return new WordDocument(); // ✅ Correct instance
     }
-    
 }
+
