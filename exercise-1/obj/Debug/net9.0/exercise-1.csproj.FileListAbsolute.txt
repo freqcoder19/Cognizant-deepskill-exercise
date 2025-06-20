@@ -1,0 +1,15 @@
+D:\cognizant-deepskil\week-1\exercise-1\bin\Debug\net9.0\exercise-1.exe
+D:\cognizant-deepskil\week-1\exercise-1\bin\Debug\net9.0\exercise-1.deps.json
+D:\cognizant-deepskil\week-1\exercise-1\bin\Debug\net9.0\exercise-1.runtimeconfig.json
+D:\cognizant-deepskil\week-1\exercise-1\bin\Debug\net9.0\exercise-1.dll
+D:\cognizant-deepskil\week-1\exercise-1\bin\Debug\net9.0\exercise-1.pdb
+D:\cognizant-deepskil\week-1\exercise-1\obj\Debug\net9.0\exercise-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cognizant-deepskil\week-1\exercise-1\obj\Debug\net9.0\exercise-1.AssemblyInfoInputs.cache
+D:\cognizant-deepskil\week-1\exercise-1\obj\Debug\net9.0\exercise-1.AssemblyInfo.cs
+D:\cognizant-deepskil\week-1\exercise-1\obj\Debug\net9.0\exercise-1.csproj.CoreCompileInputs.cache
+D:\cognizant-deepskil\week-1\exercise-1\obj\Debug\net9.0\exercise-1.sourcelink.json
+D:\cognizant-deepskil\week-1\exercise-1\obj\Debug\net9.0\exercise-1.dll
+D:\cognizant-deepskil\week-1\exercise-1\obj\Debug\net9.0\refint\exercise-1.dll
+D:\cognizant-deepskil\week-1\exercise-1\obj\Debug\net9.0\exercise-1.pdb
+D:\cognizant-deepskil\week-1\exercise-1\obj\Debug\net9.0\exercise-1.genruntimeconfig.cache
+D:\cognizant-deepskil\week-1\exercise-1\obj\Debug\net9.0\ref\exercise-1.dll
