@@ -1,6 +1,0 @@
-D:\Cognizant-deepskill-exercise\week-2\Nunit-Moq\CalcLibrary.Tests\obj\Debug\net9.0\CalcLibrary.Tests.csproj.AssemblyReference.cache
-D:\Cognizant-deepskill-exercise\week-2\Nunit-Moq\CalcLibrary.Tests\obj\Debug\net9.0\CalcLibrary.Tests.GeneratedMSBuildEditorConfig.editorconfig
-D:\Cognizant-deepskill-exercise\week-2\Nunit-Moq\CalcLibrary.Tests\obj\Debug\net9.0\CalcLibrary.Tests.AssemblyInfoInputs.cache
-D:\Cognizant-deepskill-exercise\week-2\Nunit-Moq\CalcLibrary.Tests\obj\Debug\net9.0\CalcLibrary.Tests.AssemblyInfo.cs
-D:\Cognizant-deepskill-exercise\week-2\Nunit-Moq\CalcLibrary.Tests\obj\Debug\net9.0\CalcLibrary.Tests.csproj.CoreCompileInputs.cache
-D:\Cognizant-deepskill-exercise\week-2\Nunit-Moq\CalcLibrary.Tests\obj\Debug\net9.0\CalcLibrary.Tests.sourcelink.json
